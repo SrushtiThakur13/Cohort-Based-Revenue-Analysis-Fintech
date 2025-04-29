@@ -1,0 +1,101 @@
+ticket_id,user_id,issue_type,date,resolution_time_days
+S6492,U0376,Account Freeze,2022-08-27,1
+S7007,U0321,Login Issue,2022-08-04,4
+S8694,U0499,Login Issue,2023-01-18,1
+S1118,U0345,Transaction Dispute,2023-02-19,4
+S5297,U0359,Login Issue,2023-08-07,2
+S7473,U0344,Account Freeze,2022-11-29,4
+S3376,U0279,Transaction Dispute,2023-02-17,1
+S5761,U0024,Login Issue,2022-12-30,4
+S7318,U0398,Login Issue,2022-11-13,2
+S4526,U0442,Account Freeze,2023-07-14,4
+S4733,U0327,Card Not Working,2022-11-27,2
+S7093,U0250,Account Freeze,2022-06-10,3
+S4950,U0469,Account Freeze,2023-04-08,2
+S7402,U0218,Login Issue,2022-11-26,1
+S1939,U0248,Transaction Dispute,2023-03-15,1
+S2447,U0098,Login Issue,2022-04-19,1
+S8553,U0235,Login Issue,2023-05-11,4
+S2139,U0151,Login Issue,2022-05-05,1
+S2182,U0306,Card Not Working,2022-06-30,3
+S5685,U0178,Transaction Dispute,2022-06-15,1
+S2003,U0334,Transaction Dispute,2022-03-17,4
+S8025,U0284,Transaction Dispute,2022-09-18,2
+S8007,U0170,Account Freeze,2023-01-29,3
+S5846,U0018,Account Freeze,2023-08-20,4
+S1664,U0034,Account Freeze,2022-11-29,3
+S2438,U0121,Account Freeze,2022-09-07,2
+S9631,U0257,Account Freeze,2022-07-29,4
+S7562,U0072,Card Not Working,2022-10-10,4
+S3980,U0280,Card Not Working,2022-12-12,1
+S5394,U0317,Account Freeze,2022-04-02,4
+S9435,U0413,Card Not Working,2022-05-02,1
+S9040,U0138,Transaction Dispute,2022-12-03,3
+S4957,U0064,Card Not Working,2022-04-09,2
+S4940,U0308,Login Issue,2022-02-23,4
+S4081,U0097,Login Issue,2023-09-13,4
+S4025,U0457,Transaction Dispute,2022-08-10,2
+S5853,U0434,Card Not Working,2023-03-09,2
+S8553,U0487,Transaction Dispute,2023-01-24,2
+S7881,U0438,Transaction Dispute,2023-02-17,1
+S2688,U0277,Card Not Working,2023-01-19,2
+S6657,U0264,Account Freeze,2022-05-29,1
+S8936,U0160,Transaction Dispute,2022-08-16,3
+S7951,U0017,Card Not Working,2023-01-27,2
+S1086,U0252,Transaction Dispute,2023-05-17,1
+S9871,U0164,Transaction Dispute,2023-04-19,3
+S1749,U0256,Account Freeze,2023-05-01,3
+S5095,U0408,Account Freeze,2023-05-23,1
+S2769,U0294,Account Freeze,2023-01-12,3
+S8643,U0477,Card Not Working,2022-10-30,3
+S1135,U0211,Login Issue,2023-08-04,3
+S2778,U0451,Account Freeze,2022-07-16,4
+S9282,U0014,Login Issue,2023-03-17,1
+S6646,U0388,Account Freeze,2022-11-05,3
+S4217,U0371,Transaction Dispute,2023-01-05,2
+S6173,U0057,Transaction Dispute,2023-01-14,1
+S9875,U0382,Account Freeze,2022-06-08,2
+S8563,U0335,Login Issue,2022-09-13,1
+S1736,U0298,Transaction Dispute,2022-09-28,1
+S5170,U0201,Card Not Working,2022-08-07,2
+S7852,U0126,Transaction Dispute,2022-06-21,3
+S7874,U0357,Login Issue,2022-11-28,3
+S3882,U0249,Login Issue,2022-10-09,1
+S1955,U0204,Transaction Dispute,2022-12-18,4
+S7515,U0387,Transaction Dispute,2022-11-09,2
+S9453,U0059,Account Freeze,2022-11-13,3
+S6228,U0443,Account Freeze,2022-09-16,3
+S3382,U0188,Card Not Working,2023-03-05,2
+S5938,U0486,Login Issue,2023-06-27,2
+S7012,U0276,Transaction Dispute,2022-11-22,2
+S2820,U0219,Transaction Dispute,2023-03-31,1
+S5907,U0260,Transaction Dispute,2022-09-24,1
+S5938,U0271,Account Freeze,2023-03-17,2
+S1998,U0283,Transaction Dispute,2022-08-03,3
+S5589,U0085,Account Freeze,2023-03-11,1
+S1518,U0440,Transaction Dispute,2023-01-19,2
+S9777,U0498,Card Not Working,2022-09-13,2
+S2374,U0313,Card Not Working,2023-03-28,3
+S8434,U0373,Account Freeze,2022-09-22,3
+S2495,U0065,Account Freeze,2022-06-23,1
+S1503,U0112,Transaction Dispute,2023-04-12,2
+S2046,U0054,Transaction Dispute,2023-06-13,2
+S8186,U0468,Account Freeze,2023-02-28,3
+S3213,U0302,Transaction Dispute,2023-04-09,4
+S9686,U0347,Transaction Dispute,2022-12-25,2
+S9802,U0362,Account Freeze,2023-01-17,2
+S4115,U0092,Card Not Working,2023-01-13,3
+S7941,U0361,Login Issue,2022-12-04,1
+S4693,U0312,Login Issue,2023-03-09,4
+S2150,U0311,Login Issue,2022-09-03,1
+S7701,U0396,Transaction Dispute,2022-11-17,3
+S4090,U0180,Card Not Working,2023-06-25,1
+S3752,U0078,Login Issue,2022-09-20,4
+S6028,U0162,Login Issue,2022-08-01,4
+S8769,U0202,Transaction Dispute,2022-10-26,3
+S5235,U0206,Login Issue,2022-10-18,1
+S9558,U0040,Login Issue,2023-06-05,1
+S5459,U0441,Card Not Working,2023-07-28,3
+S6336,U0433,Login Issue,2022-09-20,2
+S1891,U0436,Account Freeze,2022-05-11,3
+S2339,U0429,Card Not Working,2022-09-18,1
